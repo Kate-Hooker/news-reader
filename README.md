@@ -1,2 +1,1 @@
-# news-reader
-group project calling APIs
+4 person agile project - 24 hours to create a  project that uses multiple APIS
